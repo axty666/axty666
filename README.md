@@ -1,5 +1,12 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=axty666&show_icons=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=axty666&show_icons=true&include_all_commits=true&theme=holi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axty666&layout=compact&hide=shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axty666&layout=compact&hide=shell&theme=holi)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axty666&repo=axtybot&show_owner=true)](https://github.com/axty666/axtybot)
+
+This is axty, a Yorigami Shion Fan.
+
+When I in English / Other Language Repo, I try my best to tell English.
+
+Sometimes I maybe use Machine Translate, please forgive me these behaviors.
+
+If you want to contact with me, email to me: axty@g-c-z.cc
